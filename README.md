@@ -1,6 +1,6 @@
 # CAN Termination
 
-This D-SUB 9 standard CAN pinout terminaton adapter. It inserts a 120 Ohm resistor between the CAN-H and CAN-L signals.
+This is a D-SUB 9 standard CAN pinout terminaton adapter. It inserts a 120 Ohm resistor between the CAN-H and CAN-L signals.
 
 ![canterm render](canterm.png)
 
